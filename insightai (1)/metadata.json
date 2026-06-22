@@ -1,0 +1,6 @@
+{
+  "name": "InsightAI",
+  "description": "An Elite Automated Data Analyst platform that parses CSV and Excel datasets to provide interactive previews, comprehensive statistical profiles, visual charts, and deep AI-powered intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
